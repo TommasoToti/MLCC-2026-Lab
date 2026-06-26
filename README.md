@@ -1,4 +1,4 @@
-Material for MLCC 2026
+Completed labs from MLCC 2026
 
 https://malga.unige.it/education/schools/mlcc2026/
 
